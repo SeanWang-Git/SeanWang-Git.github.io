@@ -2,14 +2,14 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header) 
+# Name of your site (displayed in the header)
 name: 『仅收藏’﹏.最珍贵的¨』
 
 # Short bio or description (displayed in the header)
-description: 万般带不去，唯有业随身，勿忘初心！
+description:
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic) 
-avatar: http://i.imgur.com/OGFqXlX.jpg
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: http://seanwang-git.github.io/images/head_pic.jpg
 
 #
 # Flags below are optional
@@ -21,23 +21,23 @@ footer-links:
   email: sean.wang.0707@gmail.com
   facebook: 
   flickr: 
-  github: https://seanwang-git.github.io/
+  github: SeanWang-Git/SeanWang-Git.github.io
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: https://seanwang-git.github.io/
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: seanwang0707
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: 
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
@@ -49,7 +49,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
@@ -63,7 +63,6 @@ sass:
 
 # Use the following plug-ins
 gems:
-  - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
