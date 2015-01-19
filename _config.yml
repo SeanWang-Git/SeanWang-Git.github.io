@@ -21,7 +21,7 @@ footer-links:
   email: sean.wang.0707@gmail.com
   facebook: 
   flickr: 
-  github: SeanWang-Git/SeanWang-Git.github.io
+  github: 
   instagram: 
   linkedin: 
   pinterest: 
@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: seanwang0707
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
