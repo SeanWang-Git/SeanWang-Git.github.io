@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux 帮助命令
+title: SublimeText 安装
 ---
 
 ### Sublime ###
